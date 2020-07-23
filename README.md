@@ -23,3 +23,6 @@ Currently I'm working full-time for Oracle and seek to provide usable and effici
 
 ### How to reach out
 Tweet me or DM me if you want to say 👋 on [Twitter](https://twitter.com/dattacrew19). You can also contact me on [LinkedIn](https://www.linkedin.com/in/sridatta7/), [Facebook](https://www.facebook.com/sridattap1/) or simply by sending an [email](mailto:dattacrew19@gmail.com)
+
+### My GitHub stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sridatta19&show_icons=true)
