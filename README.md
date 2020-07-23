@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sridatta, Full Stack developer
+## Hi, I'm Sridatta, Full Stack developer
 
 <!--
 **Sridatta19/Sridatta19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
